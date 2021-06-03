@@ -1,3 +1,52 @@
-#inst156840{
-  width: 40%;
-}
+/*
+elem.setAttribute('style',"width:40%;");
+
+<script>
+    document.body.style.backgroundColor = "#000";
+
+    window.onload = function() {
+        let task = document.getElementsByClassName("list-group-item");
+
+        for (let i = 0; i < task.length; i++) {
+            task[i].style.backgroundColor = "#000 !important";
+        }
+    }
+
+    const elements = [];
+
+    elements.push(document.getElementById('inst156845'));
+    elements.push(document.getElementById('inst156840'));
+    elements.push(document.getElementById('inst298738'));
+    elements.push(document.getElementById('inst197598'));
+    elements.push(document.getElementById('inst156838'));
+    elements.push(document.getElementById('inst156841'));
+    elements.push(document.getElementById('inst156837'));
+    elements.push(document.getElementById('inst197680'));
+    elements.push(document.getElementById('page-header'));
+
+    for (let i = 0; i < elements.length; i++) {
+        elements[i].setAttribute('style', "background-color:#000");
+    }
+</script>
+
+
+<script>
+    alert("Hola caballero Gavilanes");
+
+    document.body.style.backgroundColor = "#000";
+
+    const elements = [];
+
+    elements.push(document.getElementById('inst156845'));
+    elements.push(document.getElementById('inst156840'));
+    elements.push(document.getElementById('inst298738'));
+    elements.push(document.getElementById('inst197598'));
+    elements.push(document.getElementById('inst156838'));
+    elements.push(document.getElementById('inst156841'));
+    elements.push(document.getElementById('inst156837'));
+    elements.push(document.getElementById('inst197680'));
+
+    for (let i = 0; i < elements.length; i++) {
+        elements[i].setAttribute('style', "background-color:#000");
+    }
+</script>*/
